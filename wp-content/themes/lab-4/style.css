@@ -14,9 +14,6 @@ Template:       twentytwentyfive
   --black: black;
 }
 footer{
-	
-	background-color:var(--cornsilk);
-	color:var(--black);
-	
-	
+	background-color: var(--cornsilk);
+	color: var(--black);
 }
