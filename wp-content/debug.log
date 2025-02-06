@@ -1,1 +1,3 @@
 [16-Jan-2025 00:19:55 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221-Week-2-Database/.wordpress/wp-includes/pluggable.php on line 1625
+[06-Feb-2025 00:21:09 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/Lab4/.wordpress/wp-includes/user.php on line 3245
+[06-Feb-2025 01:14:44 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Lab4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
